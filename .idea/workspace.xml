@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6f3dfa0-29e8-47bc-ac1e-bb6e8d02d491" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1936" />
+          <entry key="js" value="1940" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1936" />
+          <entry key="JavaScript" value="1940" />
         </counts>
       </usages-collector>
     </session>
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+            <state relative-caret-position="196">
+              <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -153,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532505422453</updated>
-      <workItem from="1532505423817" duration="5361000" />
+      <workItem from="1532505423817" duration="5471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5361000" />
+    <option name="totallyTimeSpent" value="5471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="680" y="50" width="964" height="873" extended-state="0" />
@@ -192,8 +191,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+        <state relative-caret-position="196">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

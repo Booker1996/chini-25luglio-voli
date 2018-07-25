@@ -80,9 +80,9 @@ voli[1] = {
     delay: 89
 };
 
-console.log(getFlightInfo("SQ388"));
+/*console.log(getFlightInfo("SQ388"));
 //setFlights("CI400","BOH","CIA",12);
 console.log(getFlights("MXP","departure"));
 console.log(getFlights("CIA","arrival"));
 console.log(getFlights("MXP","arrival"));
-console.log(getFlights("MXP","dsd"));
+console.log(getFlights("MXP","dsd"));*/
