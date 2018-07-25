@@ -1,0 +1,19 @@
+{
+  "name": "voli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Booker1996/chini-25luglio-voli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Booker1996/chini-25luglio-voli/issues"
+  },
+  "homepage": "https://github.com/Booker1996/chini-25luglio-voli#readme"
+}
